@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-07T15:34:13 CST" name="Default suite" finished-at="2024-10-07T15:34:39 CST" duration-ms="26182">
+    <groups>
+    </groups>
+    <test started-at="2024-10-07T15:34:13 CST" name="Default test" finished-at="2024-10-07T15:34:39 CST" duration-ms="26182">
+      <class name="tests.SearchGoogleTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:tests.SearchGoogleTest@7dfd3c81]" started-at="2024-10-07T15:34:05 CST" name="beforeSuite" finished-at="2024-10-07T15:34:13 CST" duration-ms="7155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:tests.SearchGoogleTest@7dfd3c81]" started-at="2024-10-07T15:34:13 CST" name="beforeTest" finished-at="2024-10-07T15:34:13 CST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.SearchGoogleTest@7dfd3c81]" started-at="2024-10-07T15:34:13 CST" name="beforeMethod" finished-at="2024-10-07T15:34:22 CST" duration-ms="9147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="SearchOnGoogleFactory()[pri:1, instance:tests.SearchGoogleTest@7dfd3c81]" started-at="2024-10-07T15:34:22 CST" name="SearchOnGoogleFactory" finished-at="2024-10-07T15:34:30 CST" duration-ms="7611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchOnGoogleFactory -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.SearchGoogleTest@7dfd3c81]" started-at="2024-10-07T15:34:30 CST" name="afterMethod" finished-at="2024-10-07T15:34:39 CST" duration-ms="8898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.SearchGoogleTest@7dfd3c81]" started-at="2024-10-07T15:34:39 CST" name="afterTest" finished-at="2024-10-07T15:34:39 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:tests.SearchGoogleTest@7dfd3c81]" started-at="2024-10-07T15:34:39 CST" name="afterSuite" finished-at="2024-10-07T15:34:39 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- tests.SearchGoogleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
